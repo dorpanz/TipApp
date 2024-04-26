@@ -1,7 +1,7 @@
 # Let's Split Our Bill!!
 
 This web application helps you calculate how much each person should pay when splitting a bill, including an optional tip.
-<p>Live site -  <a>[https://main--billcalculatoronline.netlify.app/]</a></p>
+<p>Live site -  [BillCalculatorOnline](https://main--billcalculatoronline.netlify.app/)</p>
 ## Usage
 
 1. Enter the total bill amount in the "Bill" field.
